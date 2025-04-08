@@ -1,4 +1,5 @@
 import RocketScrollAnimation from "./RocketScrollAnimation";
+import './App.css';
 
 function App() {
   return (
