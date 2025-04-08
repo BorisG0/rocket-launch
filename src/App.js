@@ -1,7 +1,12 @@
+import RocketScrollAnimation from "./RocketScrollAnimation";
+
 function App() {
   return (
     <div>
-      Ey yo was geht?
+      <RocketScrollAnimation />
+      <div style={{ height: "200vh" }}>
+        {/* Scrolling content */}
+      </div>
     </div>
   );
 }
